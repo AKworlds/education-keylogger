@@ -53,7 +53,7 @@ Consent prompt is included to enforce responsible usage.
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/educational-keylogger.git
+git clone https://github.com/AKworlds/educational-keylogger.git
 cd educational-keylogger
 
 # Run setup (creates virtualenv & installs keyboard module)

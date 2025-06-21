@@ -57,7 +57,7 @@ git clone https://github.com/AKworlds/educational-keylogger.git
 cd educational-keylogger
 
 # Run setup (creates virtualenv & installs keyboard module)
-python setup.py
+python setup_simple.py
 
 # Windows
 venv\Scripts\activate

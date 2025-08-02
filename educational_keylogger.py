@@ -9,7 +9,6 @@ understand keyboard monitoring techniques and cybersecurity concepts.
 IMPORTANT: This software is for educational purposes only. Use responsibly and ethically.
 Always ensure you have proper authorization before monitoring any system.
 
-Author: Security Engineering Student
 Purpose: Educational demonstration of keylogging techniques
 """
 
@@ -392,4 +391,5 @@ def main():
         sys.exit(1)
 
 if __name__ == "__main__":
+
     main()
